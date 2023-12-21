@@ -16,8 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"unitedstates","ip":"128.199.221.44","active":"true","signal":"a"},
-    {"id":0, "file":1, "city":"New Zealand","country":"NZ","image":"unitedstates","ip":"128.199.221.4","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"128.199.221.44","active":"true","signal":"a"},
+    {"id":0, "file":1, "city":"New Zealand","country":"NZ","image":"unitedstates","ip":"203.116.148.79","active":"true","signal":"a"},
     {"id":0, "file":3, "city":"Singapore","country":"Singapore","image":"unitedstates","ip":"128.199.21.44","active":"true","signal":"a"},
     {"id":0, "file":4, "city":"Singapore","country":"Singapore","image":"unitedstates","ip":"128.19.221.44","active":"true","signal":"a"},
   ]
