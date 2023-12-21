@@ -4,14 +4,14 @@
 client
 server-poll-timeout 4
 nobind
-remote 34.82.250.104 1194 udp
-remote 34.82.250.104 1194 udp
-remote 34.82.250.104 443 tcp
-remote 34.82.250.104 1194 udp
-remote 34.82.250.104 1194 udp
-remote 34.82.250.104 1194 udp
-remote 34.82.250.104 1194 udp
-remote 34.82.250.104 1194 udp
+remote 203.118.146.79 1194 udp
+remote 203.118.146.79 1194 udp
+remote 203.118.146.79 1194 tcp
+remote 203.118.146.79 1194 udp
+remote 203.118.146.79 1194 udp
+remote 203.118.146.79 1194 udp
+remote 203.118.146.79 1194 udp
+remote 203.118.146.79 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
